@@ -1,0 +1,48 @@
+body{
+	border: 20px solid #bdc3c7;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	padding: 20px;
+	font-family: source sans pro;
+
+}
+
+h2{
+	color: #2c3e50;
+	font-weight: 700;
+}
+.bar{
+	border-left: 3px solid gray;
+}
+
+h6{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	font-size: 1.0em;
+	
+}
+/*hr{
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+hr:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}*/
+
+hr{
+	border: 1px solid lavender;
+margin-bottom: 20px;
+}
+/*font: source sans pro;*/
+/*date color: #3498db;*/
