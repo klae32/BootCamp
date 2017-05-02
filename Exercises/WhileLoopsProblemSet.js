@@ -11,10 +11,11 @@ while(evnum <=40){
 	evnum+=2;
 }
 console.log("Print all odd numbers between 300 and 333");
-var onum = 301
+var onum = 300
 while(onum<=333){
-	console.log(onum);
-	onum+=2;
+	if (onum %2!==0){
+	console.log(onum);}
+	onum+=1;
 }
 console.log("Print all numbers divisible by 5 and 3 between 5 and 50");
 var dnum = 5
