@@ -41,21 +41,21 @@ watched: false
 // })
 
 //Refactored answer  vvvvvv
-function buildString(movie){
-var results ="You have "
-if (movie.watched){
-	results += "watched";
-}
-else {
-	results += "not seen";
+// function buildString(movie){
+// var results ="You have "
+// if (movie.watched){
+// 	results += "watched";
+// }
+// else {
+// 	results += "not seen";
 
-}
-results+= "\"" + movie.title + "\" - "
-results+= movie.rating + " stars"	
-return results
-}
+// }
+// results+= "\"" + movie.title + "\" - "
+// results+= movie.rating + " stars"	
+// return results
+// }
 
-movies.forEach(function(movie){
-console.log( buildString(movie))
+// movies.forEach(function(movie){
+// console.log( buildString(movie))
 
-})
+// })
