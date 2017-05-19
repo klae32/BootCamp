@@ -17,3 +17,10 @@ body.style.background = "#3498db"
 
 //How to select things and Manipulate them. 
 
+Every selector will start with a document.
+
+//learning more about querySelector(QS)
+
+.bolded class only gives us the first one. 
+
+
