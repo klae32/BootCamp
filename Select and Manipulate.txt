@@ -24,3 +24,8 @@ Every selector will start with a document.
 .bolded class only gives us the first one. 
 
 
+textContent = retreive the text (string) 
+-this is how we can manipulate the content inside of an element.
+
+getAttribute
+setAttribute ("attribute", "change")
