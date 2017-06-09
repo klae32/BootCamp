@@ -28,7 +28,13 @@ h1 span{
 	
 }
 
-div .banner {
+/*div .banner {
 	background-color:  white;
 	color: black;
+}*/
+
+#stripe{
+	background-color: white;
+	height: 30px;
+	text-align: center;
 }
